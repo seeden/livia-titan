@@ -5,6 +5,9 @@ Titan adapter for universal database driver Livia
 ### TR|TD
 Right know we have support only for schema-full. 
 
+### Windows
+Install GnuWin32 and add "C:\Program Files (x86)\GnuWin32\bin" to system path
+
 ## Running Tests
 
 ```sh
