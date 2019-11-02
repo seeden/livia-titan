@@ -55,7 +55,7 @@
 		"gulp-util": "~3.0.4",
 		"should": "~5.0.1",
 		"babel": "~5.1.0",
-		"mongoose": "~4.0.1",
+		"mongoose": "~5.7.7",
 		"livia": "~0.2.0"
 	},
 	"peerDependencies": {
